@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+body {
+  font-family: 'Lato', Helvectica, sans-serif;
+  font-size: 16px; }
+
+p {
+  font-size: 1.1em;
+  font-weight: 300; }
+
+.navbar-default {
+  background-color: #fff;
+  border: none; }
+  .navbar-default .navbar-brand {
+    text-transform: uppercase;
+    font-size: 1.75em;
+    font-weight: 700;
+    color: #418bcc; }
+    .navbar-default .navbar-brand span {
+      color: #626669; }
+  .navbar-default .navbar-brand:hover {
+    color: #418bcc; }
+
+.navbar {
+  margin-bottom: 0.25em; }
+
+.jumbotron {
+  background-color: #142537;
+  text-align: center;
+  color: #fff;
+  margin: 0;
+  padding: 6em; }
+  .jumbotron h1 {
+    font-size: 3.5em;
+    margin: 0;
+    font-weight: 400; }
+  .jumbotron p {
+    font-size: 2em;
+    font-weight: 300;
+    margin-top: 1em; }
+
+.container-fluid {
+  color: #95999c;
+  margin: 0 2em; }
+
+.shaded {
+  background-color: #f0f0f0; }
+
+footer {
+  background-color: #3a414b;
+  color: #95999c; }
+
+/*# sourceMappingURL=main.css.map */
